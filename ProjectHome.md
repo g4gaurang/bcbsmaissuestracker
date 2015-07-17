@@ -1,0 +1,1 @@
+This issue tracker will be used to track all defects/issues/bugs/errors and enhancements encountered during the formal UAT testing of the first release of the Self-service product configuration system.
